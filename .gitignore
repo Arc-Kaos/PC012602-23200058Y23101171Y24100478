@@ -1,0 +1,36 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+out/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Dotnet tools
+# Database files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# JetBrains Rider
+.idea/
+
+# Build results
+**/bin/
+**/obj/
