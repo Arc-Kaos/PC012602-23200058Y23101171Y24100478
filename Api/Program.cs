@@ -1,15 +1,23 @@
 using Microsoft.EntityFrameworkCore;
 using TallerMecanico.Data;
+using TallerMecanico.Core.Interfaces;
+using TallerMecanico.Infrastructure.Repositories;
+using TallerMecanico.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddControllers();
 
 // Registrar DbContext
 builder.Services.AddDbContext<TallerDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Registrar repositorio y servicio
+builder.Services.AddScoped<IOrdenServicioRepository, OrdenServicioRepository>();
+builder.Services.AddScoped<IOrdenServicioService, OrdenServicioService>();
 
 var app = builder.Build();
 
@@ -18,6 +26,8 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
+
+app.MapControllers();
 
 app.UseHttpsRedirection();
 
