@@ -1,0 +1,11 @@
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\bin\Debug\net10.0\ArcKaos.Core.deps.json
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\bin\Debug\net10.0\ArcKaos.Core.dll
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\bin\Debug\net10.0\ArcKaos.Core.pdb
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\obj\Debug\net10.0\ArcKaos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\obj\Debug\net10.0\ArcKaos.Core.AssemblyInfoInputs.cache
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\obj\Debug\net10.0\ArcKaos.Core.AssemblyInfo.cs
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\obj\Debug\net10.0\ArcKaos.Core.csproj.CoreCompileInputs.cache
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\obj\Debug\net10.0\ArcKaos.Core.dll
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\obj\Debug\net10.0\refint\ArcKaos.Core.dll
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\obj\Debug\net10.0\ArcKaos.Core.pdb
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Core\obj\Debug\net10.0\ref\ArcKaos.Core.dll

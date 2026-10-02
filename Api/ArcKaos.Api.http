@@ -1,0 +1,6 @@
+@ArcKaos.Api_HostAddress = http://localhost:5086
+
+GET {{ArcKaos.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,14 @@
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\bin\Debug\net10.0\ArcKaos.Infrastructure.deps.json
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\bin\Debug\net10.0\ArcKaos.Infrastructure.runtimeconfig.json
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\bin\Debug\net10.0\ArcKaos.Infrastructure.dll
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\bin\Debug\net10.0\ArcKaos.Infrastructure.pdb
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ArcKaos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ArcKaos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ArcKaos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ArcKaos.Infrastructure.AssemblyInfo.cs
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ArcKaos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ArcKaos.Infrastructure.dll
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\refint\ArcKaos.Infrastructure.dll
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ArcKaos.Infrastructure.pdb
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ArcKaos.Infrastructure.genruntimeconfig.cache
+C:\Users\laboratorioesan\source\repos\Arc-Kaos\PC012602-23200058Y23101171Y24100478\ArcKaos.Infrastructure\obj\Debug\net10.0\ref\ArcKaos.Infrastructure.dll
